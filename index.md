@@ -1,5 +1,5 @@
  <center>
-     <h1>杨新航</h1>
+     <h1>PolarisYxh</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -20,7 +20,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
  - 男，1997年出生，研二
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
