@@ -1,5 +1,5 @@
  <center>
-     <h1>PolarisYxh</h1>
+     <h1>杨新航</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -21,7 +21,7 @@
  </center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
- - 男，1997年出生
+ - 男，1997年出生，研二
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，北京航空航天大学，计算机科学与技术专业，虚拟现实技术国家重点实验室，2019.9~至今
