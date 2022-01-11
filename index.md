@@ -21,7 +21,7 @@
  </center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
- - 男，1997年出生，研二
+ - 男，1997年出生
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，北京航空航天大学，计算机科学与技术专业，虚拟现实技术国家重点实验室，2019.9~至今
