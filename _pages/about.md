@@ -28,11 +28,11 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2019.09 - 2022.01 研究生*, <a href="https://vrlab.buaa.edu.cn/index.htm"><img class="jpeg" src="/images/bhcom.jpeg" width="23pt"></a> 北京航空航天大学 计算机学院 虚拟现实技术与系统国家重点实验室 导师周彬副教授
+- *2019.09 - 2022.01 硕士*, <a href="https://vrlab.buaa.edu.cn/index.htm"><img class="jpeg" src="/images/bhcom.jpeg" width="23pt"></a> 北京航空航天大学 计算机学院 虚拟现实技术与系统国家重点实验室 导师周彬副教授
 - *2015.09 - 2019.09 本科*, <a href="http://www.me.buaa.edu.cn/"><img class="jpeg" src="/images/bhme.jpeg" width="20pt"></a> 北京航空航天大学 机械工程及自动化学院
  
-<span class='anchor' id='-lwzl'></span>
 
+<span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 ## *2022.05 - 至今*, 浙江同花顺智能科技有限公司
@@ -101,6 +101,8 @@ redirect_from:
 </div>
 </div>
 
+<span class='anchor' id='-lwzl'></span>
+
 # 📝 专利
 
 <!-- ### 英文
@@ -138,5 +140,5 @@ redirect_from:
 # 🏛️ 学术会议
 - 
 
-<span class='anchor' id='-gzsx'></span>
+
 
