@@ -48,7 +48,7 @@ redirect_from:
 </div>
 
 <div><h3>头发生成-2023</h3></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">头发生成</div><img src='images/hair.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">头发生成</div><img src='images/hairgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	2023年，负责研发单视角三维头发丝发型生成算法，创建500G头发相关训练数据集，编写算法训练且优化了输入单视角图像生成头发丝三维模型的相关网络模型，并编写发型吸附头皮算法将发型和人头模型组合，使得单视角写实头发生成达到领先水平并部署。和美术对接加速头发模型制作并扩大训练数据集进一步提升性能及效果。后续建立了高质量发型库，并完成头发分类算法用于用户挑选。
@@ -126,7 +126,8 @@ redirect_from:
 [[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)    -->
 <!-- ### 专利 -->
 ---
-- 杨新航, `杨新航`. 一种虚拟人三维头发丝发型的生成方法及系统. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
+- 杨新航, `杨新航`. 一种虚拟人三维头发丝发型的生成方法及系统. 
+<!-- [网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA) -->
 - 杨新航, `杨新航`. 用户形象生成方法、相关装置及计算机程序产品
 
 <span class='anchor' id='-ryjx'></span>
