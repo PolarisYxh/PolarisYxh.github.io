@@ -22,8 +22,8 @@ redirect_from:
 
 # 研究领域
 - 三维数字人生成及驱动
-- 计算机图形 生成算法
-- 图像算法
+- 计算机图形图像算法
+- 三维视觉
 
 
 <span class='anchor' id='-xl'></span>
