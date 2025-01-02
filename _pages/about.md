@@ -84,7 +84,7 @@ redirect_from:
 <div class='paper-box'><div>
 <div class="badge">4D无标记点离线面捕</div>
 <video width="640" controls>
-  <source src="images/4D.mp4" type="video/mp4">
+  <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video></div>
 <div class='paper-box-text' markdown="1">
