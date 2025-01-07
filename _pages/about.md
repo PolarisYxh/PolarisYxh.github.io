@@ -43,7 +43,7 @@ redirect_from:
 <div class='paper-box-image'><div><div class="badge">卡通生成</div><img src='images/cartoon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	2022年，研发三维卡通虚拟人生成算法，用户输入人脸照片，输出一个三维卡通人脸模型。在该项目中负责人脸解析，以及卡通发型、卡通五官等部件的分类、变换参数生成算法及各器官组合变形平滑算法，对接美术处理卡通模型库得到各个器官降维后的morph，并部署上线。
+-	2022年，研发三维卡通虚拟人生成算法，用户输入人脸照片，输出一个三维卡通人脸模型。在该项目中负责人脸解析，以及卡通发型、卡通五官等部件的分类、变换参数生成算法及各器官组合变形平滑算法，对接美术处理卡通模型库得到各个器官降维后的blendshape，并部署上线。
 
 </div>
 </div>
@@ -52,15 +52,17 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">头发生成</div><img src='images/hairgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	2023年，负责研发单视角三维头发丝发型生成算法，创建500G头发相关训练数据集，编写算法训练且优化了输入单视角图像生成头发丝三维模型的相关网络模型，并编写发型吸附头皮算法将发型和人头模型组合，使得单视角写实头发生成达到领先水平并部署。和美术对接加速头发模型制作并扩大训练数据集进一步提升性能及效果。后续建立了高质量发型库，并完成头发分类算法用于用户挑选。
+-	2023年，负责研发单视角三维头发丝发型生成算法，创建500G头发相关训练数据集，编写算法训练且优化了输入单视角图像生成头发丝三维模型的相关网络模型，并编写发型吸附头皮算法将发型和人头模型组合，使得单视角写实头发生成达到领先水平并部署。和美术对接加速头发模型制作并扩大训练数据集进一步提升性能及效果，并建立高质量发型库，并完成头发分类算法用于用户挑选。
 
 </div>
 </div>
+
 <div><h3>关键点提升-2023</h3></div>
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">关键点对比</div><img src='images/lmk5.png' alt="sym" width="100%"></div></div>
+<div><div class="badge">关键点对比</div><img src='images/lmk5.png' alt="sym" width="100%"></div></div></div>
 
+<div class='paper-box'>
 <div class='paper-box-image'>
 <div><div class="badge">更多关键点结果</div><img src='images/lmk5.jpg' alt="sym" width="60%"></div>
 </div>
@@ -70,6 +72,7 @@ redirect_from:
 
 </div>
 </div>
+
 <div><h3>metahuman 3D人脸生成-2024</h3></div>
 <div class='paper-box'><div class='paper-box-image'><div>
 <!-- <div class="badge">3D metahuman</div> -->
@@ -85,6 +88,10 @@ redirect_from:
 <div class="badge">4D无标记点离线面捕</div>
 <video width="640" controls>
   <source src="images/4D.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="640" controls>
+  <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video></div>
 <div class='paper-box-text' markdown="1">
@@ -140,7 +147,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- 
+- InstanceFusion: Real-time Instance-level 3D Reconstruction Using a Single RGBD Camera
 
 
 
