@@ -60,11 +60,9 @@ redirect_from:
 <div><h3>关键点提升-2023</h3></div>
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">关键点对比</div><img src='images/lmk5.png' alt="sym" width="100%"></div></div></div>
-
-<div class='paper-box'>
+<div><div class="badge">关键点对比</div><img src='images/lmk5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'>
-<div><div class="badge">更多关键点结果</div><img src='images/lmk5.jpg' alt="sym" width="60%"></div>
+<div><div class="badge">更多关键点结果</div><img src='images/lmk6.jpg' alt="sym" width="60%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -147,7 +145,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- InstanceFusion: Real-time Instance-level 3D Reconstruction Using a Single RGBD Camera
+- InstanceFusion: Real-time Instance-level 3D Reconstruction Using a Single RGBD Camera,pacific graphic 2020,ccf-B
 
 
 
