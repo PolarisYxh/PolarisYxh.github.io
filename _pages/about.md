@@ -54,7 +54,7 @@ redirect_from:
 
 <div class='paper-box-text' markdown="1">
 
--	2022年负责公司内场景重建的demo开发，完成了从iphone手机录制视频到生成场景模型及纹理的重建流程，ios logger得到带内外参视频+neural recon三维重建+mvs-texturing进行三维重建。
+-	2022年负责公司内场景重建的demo开发，完成了从iphone手机录制视频到生成场景模型及纹理的重建流程，ios logger得到带内外参视频+neural recon三维重建+mvs-texturing进行三维重建。同时用colmap完成重建并对比。
 
 </div>
 </div>
@@ -72,7 +72,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div><div class="badge">关键点对比</div><img src='images/lmk5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'>
-<div><div class="badge">更多关键点结果</div><img src='images/lmk6.jpg' alt="sym" width="60%"></div>
+<div><div class="badge">更多关键点结果</div><img src='images/lmk6.png' alt="sym" width="60%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
