@@ -47,7 +47,17 @@ redirect_from:
 
 </div>
 </div>
+<div><h3>室内场景重建-2022</h3></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">重建效果对比</div><img src='images/3d recon.png' alt="sym" width="100%"></div></div>
 
+<div class='paper-box-text' markdown="1">
+
+-	2022年负责公司内场景重建的demo开发，完成了从iphone手机录制视频到生成场景模型及纹理的重建流程，ios logger得到带内外参视频+neural recon三维重建+mvs-texturing进行三维重建。
+
+</div>
+</div>
 <div><h3>头发生成-2023</h3></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">头发生成</div><img src='images/hairgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,10 +94,10 @@ redirect_from:
 <div><h3>metahuman 4D无标记点离线面捕-2024</h3></div>
 <div class='paper-box'><div>
 <div class="badge">4D无标记点离线面捕</div>
-<video width="640" controls>
+<!-- <video width="640" controls>
   <source src="images/4D.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 <video width="640" controls>
   <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
