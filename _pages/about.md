@@ -99,7 +99,7 @@ redirect_from:
   Your browser does not support the video tag.
 </video> -->
 <video width="640" controls>
-  <source src="images/4D_1.mp4" type="video/mp4">
+  <source src="images/4D_1.mp4" type="video/mp4" width="100%">
   Your browser does not support the video tag.
 </video></div>
 <div class='paper-box-text' markdown="1">
@@ -108,8 +108,15 @@ redirect_from:
 
 </div>
 </div>
+
 <div><h3>服装生成-2025</h3></div>
 <div class='paper-box'>
+<div>
+<div class="badge">4D无标记点离线面捕</div>
+<video width="640" controls>
+  <source src="images/cloth_sim.mp4" type="video/mp4" width="100%">
+  Your browser does not support the video tag.
+</video></div>
 <div class='paper-box-text' markdown="1">
 
 -	2024年至今负责单视角图像的服装版型生成算法，输入穿衣图像，输出服装版型及缝合信息。使用warp4d对版片服装缝合后进行物理仿真并渲染得到合成试衣图像，使用comfyui的2d虚拟试衣流程将合成图像转为真实图像，构建了真实的人体服装图像-服装版型数据的数据集；将原版模型的编码器替换为用mae预训练的1b vit人体编码器，训练新的服装版型1B生成大模型，解决原版模型不能泛化到真实人体图像的问题
