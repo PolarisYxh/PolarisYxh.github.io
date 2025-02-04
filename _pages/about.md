@@ -124,10 +124,11 @@ redirect_from:
   <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
-<video width="640" controls>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=424775460&bvid=BV1R3411W7rX&cid=549893691&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<!-- <video width="640" controls>
   <source src="https://www.bilibili.com/video/BV1R3411W7rX?t=22.2" type="video/mp4">
   Your browser does not support the video tag.
-</video></div>
+</video></div> -->
 <div class='paper-box-text' markdown="1">
 
 -	负责并实现在仿真环境下机械臂拉抽屉、开门的任务。在Unity中搭建kinova机械臂仿真环境及家居场景物理仿真模型。训练gg-cnn深度神经网络，使机械臂视觉识别家具部件抓取点。编写Moveit机械臂控制代码，根据抓取点和机械臂相对位姿速度伺服控制机械臂实现拉抽屉、开门等任务。迁移到真实机械臂完成上述任务。
