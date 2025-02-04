@@ -125,7 +125,7 @@ redirect_from:
   Your browser does not support the video tag.
 </video> -->
 <video width="640" controls>
-  <source src="https://www.bilibili.com/video/BV1R3411W7rX/?vd_source=e428689d58bc7fbca7c1db2f540c0123" type="video/mp4">
+  <source src="https://www.bilibili.com/video/BV1R3411W7rX?t=22.2" type="video/mp4">
   Your browser does not support the video tag.
 </video></div>
 <div class='paper-box-text' markdown="1">
