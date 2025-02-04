@@ -23,8 +23,8 @@ redirect_from:
 # 研究领域
 - 三维数字人生成及驱动
 - 计算机图形图像算法
+- aigc、大模型
 - 三维视觉
-
 
 <span class='anchor' id='-xl'></span>
 
@@ -112,11 +112,28 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
--	2024年至今负责单视角图像的服装生成算法，主要是构建真实的人体服装图像-服装版型数据的数据集，并训练服装版型生成模型
+-	2024年至今负责单视角图像的服装版型生成算法，输入穿衣图像，输出服装版型及缝合信息。使用warp4d对版片服装缝合后进行物理仿真并渲染得到合成试衣图像，使用comfyui的2d虚拟试衣流程将合成图像转为真实图像，构建了真实的人体服装图像-服装版型数据的数据集；将原版模型的编码器替换为用mae预训练的1b vit人体编码器，训练新的服装版型1B生成大模型，解决原版模型不能泛化到真实人体图像的问题
 
 </div>
 </div>
 
+<div><h3>机械臂自主操作家具仿真 Unity 3D-2020</h3></div>
+<div class='paper-box'><div>
+<div class="badge">制作工具</div>
+<!-- <video width="640" controls>
+  <source src="images/4D_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
+<video width="640" controls>
+  <source src="https://www.bilibili.com/video/BV1R3411W7rX/?vd_source=e428689d58bc7fbca7c1db2f540c0123" type="video/mp4">
+  Your browser does not support the video tag.
+</video></div>
+<div class='paper-box-text' markdown="1">
+
+-	负责并实现在仿真环境下机械臂拉抽屉、开门的任务。在Unity中搭建kinova机械臂仿真环境及家居场景物理仿真模型。训练gg-cnn深度神经网络，使机械臂视觉识别家具部件抓取点。编写Moveit机械臂控制代码，根据抓取点和机械臂相对位姿速度伺服控制机械臂实现拉抽屉、开门等任务。迁移到真实机械臂完成上述任务。
+
+</div>
+</div>
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 专利
