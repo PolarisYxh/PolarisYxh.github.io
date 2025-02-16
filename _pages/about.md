@@ -98,10 +98,12 @@ redirect_from:
   <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
-<video width="640" controls>
+<!-- <video width="640" controls>
   <source src="https://www.bilibili.com/video/BV1tzA5eWEvX/?vd_source=e428689d58bc7fbca7c1db2f540c0123" type="video/mp4" width="100%">
   Your browser does not support the video tag.
-</video></div>
+</video> -->
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=424775460&bvid=BV1R3411W7rX&cid=549893691&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
 <div class='paper-box-text' markdown="1">
 
 -	2024年负责处理4D相机矩阵拍摄的语音人脸多视角动画，构建语音-4D表情动画数据集。编写了从多视角人脸三维重建开始拟合人脸4D图像得到174维表情系数、球谐光照、位姿的离线无标记点面捕算法，创建了多个人脸4D图像数据-metahuman拓扑的4D动画数据集，完成的可微渲染优化算法得到的动画稳定没有抖动且嘴型眼睛精确，效果达到metahuman animator水平。上述数据集支持大屏虚拟人及虚拟试衣项目的语音驱动口型算法。
@@ -112,11 +114,14 @@ redirect_from:
 <div><h3>服装生成-2025</h3></div>
 <div class='paper-box'>
 <div>
-<div class="badge">4D无标记点离线面捕</div>
-<video width="640" controls>
+<div class="badge">服装仿真</div>
+
+<!-- <video width="640" controls>
   <source src="https://www.bilibili.com/video/BV1UzA5eWExs/" type="video/mp4" width="100%">
   Your browser does not support the video tag.
-</video></div>
+</video> -->
+<iframe src="//player.bilibili.com/player.html?bvid=BV1UzA5eWExs&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 <div class='paper-box-text' markdown="1">
 
 -	2024年至今负责单视角图像的服装版型生成算法，输入穿衣图像，输出服装版型及缝合信息。使用warp4d对版片服装缝合后进行物理仿真并渲染得到合成试衣图像，使用comfyui的2d虚拟试衣流程将合成图像转为真实图像，构建了真实的人体服装图像-服装版型数据的数据集；将原版模型的编码器替换为用mae预训练的1b vit人体编码器，训练新的服装版型1B生成大模型，解决原版模型不能泛化到真实人体图像的问题
@@ -131,11 +136,12 @@ redirect_from:
   <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=424775460&bvid=BV1R3411W7rX&cid=549893691&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 <!-- <video width="640" controls>
   <source src="https://www.bilibili.com/video/BV1R3411W7rX?t=22.2" type="video/mp4">
   Your browser does not support the video tag.
-</video></div> -->
+</video> -->
+</div>
 <div class='paper-box-text' markdown="1">
 
 -	负责并实现在仿真环境下机械臂拉抽屉、开门的任务。在Unity中搭建kinova机械臂仿真环境及家居场景物理仿真模型。训练gg-cnn深度神经网络，使机械臂视觉识别家具部件抓取点。编写Moveit机械臂控制代码，根据抓取点和机械臂相对位姿速度伺服控制机械臂实现拉抽屉、开门等任务。迁移到真实机械臂完成上述任务。
