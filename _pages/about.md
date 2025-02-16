@@ -102,7 +102,7 @@ redirect_from:
   <source src="https://www.bilibili.com/video/BV1tzA5eWEvX/?vd_source=e428689d58bc7fbca7c1db2f540c0123" type="video/mp4" width="100%">
   Your browser does not support the video tag.
 </video> -->
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=424775460&bvid=BV1R3411W7rX&cid=549893691&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1tzA5eWEvX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -136,7 +136,7 @@ redirect_from:
   <source src="images/4D_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
-
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=424775460&bvid=BV1R3411W7rX&cid=549893691&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <!-- <video width="640" controls>
   <source src="https://www.bilibili.com/video/BV1R3411W7rX?t=22.2" type="video/mp4">
   Your browser does not support the video tag.
