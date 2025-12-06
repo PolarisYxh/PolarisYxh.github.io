@@ -62,13 +62,11 @@ redirect_from:
       <div class="badge">语音驱动表情模型训练</div>
       <!-- 推荐：上传到 Bilibili 后替换下方的 bvid -->
       <!-- <iframe src="//player.bilibili.com/player.html?bvid=BV_REPLACE_ME&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="300"> </iframe> -->
-      
-      <video width="100%" controls>
+      <video width="640" controls>
         <source src="/images/segment_3_stacked.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <br>
-      <video width="100%" controls>
+     <video width="640" controls>
         <source src="/images/segment_7_stacked.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
