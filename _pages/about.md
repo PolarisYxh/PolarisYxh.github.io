@@ -36,7 +36,9 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-## *2022.05 - 至今*, 浙江同花顺智能科技有限公司
+## *2025.06 - 至今*, <a href="/netease/">网易（杭州）在线有限公司</a>
+
+## *2022.05 - 2025.05*, 浙江同花顺智能科技有限公司
 <div><h3>卡通形象生成-2022</h3></div>
 <div class='paper-box'>
 
@@ -76,7 +78,7 @@ redirect_from:
 </div>
 <div class='paper-box-text' markdown="1">
 
--	2023年负责提升人脸五官及脸边缘关键点检测算法效果，使用metahuman animator的关键点检测算法，得到精确的眉毛、眼睛眼球、口型、鼻子、鼻翼两侧褶皱、脸边缘及牙齿的关键点。同时使用开源的耳朵关键点数据集训练得到耳朵关键点模型，上述关键点效果堪比脸上在画点。
+-	2023年负责提升人脸五官及脸边缘关键点检测算法效果，使用metahuman animator的关键点检测算法，得到精确的眉毛、眼睛眼球、口型、鼻子、ône双方褶皱、脸边缘及牙齿的关键点。同时使用开源的耳朵关键点数据集训练得到耳朵关键点模型，上述关键点效果堪比脸上在画点。
 
 </div>
 </div>
@@ -190,6 +192,3 @@ redirect_from:
 
 # 🏛️ 学术会议
 - InstanceFusion: Real-time Instance-level 3D Reconstruction Using a Single RGBD Camera,pacific graphic 2020,ccf-B
-
-
-
