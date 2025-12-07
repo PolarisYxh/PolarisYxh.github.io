@@ -37,9 +37,9 @@ redirect_from:
 
 # 💻 工作实习
 ## *2025.06 - 至今*, 网易（杭州）在线有限公司
-<div><h3>metahuman 4D无标记点离线面捕-2024</h3></div>
+<div><h3>语音驱动表情</h3></div>
 <div class='paper-box'><div>
-<div class="badge">4D无标记点离线面捕</div>
+<div class="badge">语音驱动表情模型训练</div>
 <video width="640" controls>
   <source src="images/segment_3_stacked.mp4" type="video/mp4">
   Your browser does not support the video tag.
