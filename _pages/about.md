@@ -37,9 +37,19 @@ redirect_from:
 
 # 💻 工作实习
 ## *2025.06 - 至今*, 网易（杭州）在线有限公司
+<div><h3>metahuman 4D无标记点离线面捕-2024</h3></div>
+<div class='paper-box'><div>
+<div class="badge">4D无标记点离线面捕</div>
+<video width="640" controls>
+  <source src="images/segment_3_stacked.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+<div class='paper-box-text' markdown="1">
 
-<div><h3>语音驱动表情</h3></div>
-
+-	负责在影视数据集上训练语音驱动表情的自回归模型，训练结果相比nvidia audio2face和metahuman的animator算法口型更准，头动及表情更真实。另外建立了情绪风格库，在11种情绪设置下，情绪表现力相比nvidia audio2face更强，扩充风格库后情绪表现可以更丰富。
+</div>
+</div>
 ## *2022.05 - 2025.05*, 浙江同花顺智能科技有限公司
 <div><h3>卡通形象生成-2022</h3></div>
 <div class='paper-box'>
